@@ -2,6 +2,8 @@ package com.m3.training.helloworldmsg;
 
 import java.util.Random;
 
+//Random comment to change for Git commit
+
 public class HelloWorldMessage {
 	
 		private static final int MAX = 100;
